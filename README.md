@@ -1,4 +1,4 @@
-# Infrastructure Challenge Solution
+# Automated AWS Infrastructure with Terraform
 
 A company needs to provision a secure and scalable AWS environment for public-facing workloads. The goal is to automate the creation of a network and compute resources using Terraform, following best practices and clear requirements.
 
